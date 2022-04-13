@@ -10,6 +10,8 @@ Preview the example live on [StackBlitz](http://stackblitz.com/):
 
 ## Deploy your own
 
+Codebase credit goes to (https://github.com/CleverProgrammers)
+
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
@@ -23,8 +25,6 @@ npx create-next-app --example with-tailwindcss with-tailwindcss-app
 # or
 yarn create next-app --example with-tailwindcss with-tailwindcss-app
 ```
-Codebase credit goes to https://github.com/CleverProgrammers/
-
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
 
 
